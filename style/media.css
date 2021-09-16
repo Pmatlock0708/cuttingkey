@@ -1,0 +1,837 @@
+@media only screen and (max-width: 1680px) {
+    .container {
+        width: 100%;
+        max-width: 1460px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    /* font-size 56=48 */
+    .never-easy h1 {
+        font-size: 48px;
+    }
+
+    /* font-size 20=18 */
+    .header-nav ul li a {
+        font-size: 18px;
+    }
+
+    /* font-size 30=27 */
+    .discount h1 {
+        font-size: 27px;
+    }
+
+    /* font-size 24=20 */
+    .never-easy p {
+        font-size: 22px;
+    }
+
+    /* font-size 22=20px */
+    .never-easy a,
+    .discount a {
+        font-size: 20px;
+    }
+
+    /* font-size 32=29*/
+    .slider-detail h1,
+    .points ul li h4 {
+        font-size: 29px;
+    }
+
+    /* font-size 30=27px */
+    .counter-diff .counter-price h1 {
+        font-size: 27px;
+    }
+
+    /* font-size 43px=38 */
+    section.new-duplicat-key-machine::before {
+
+        font-size: 38px;
+    }
+
+    /* font-size 46=40 */
+    .faq-content.faq-part2 h1,
+    .bundle-content h1,
+    .bundle-x span,
+    .about-text h1 {
+        font-size: 40px;
+    }
+
+    /* font-size 26=24 */
+    .about-product h1 {
+        font-size: 23px;
+    }
+
+    .points ul li::after {
+        width: 10px;
+        height: 10px;
+    }
+
+    .product-img-slider.slick-initialized.slick-slider {
+        max-width: 83%;
+    }
+
+    .bundle-x h6 {
+        width: 100%;
+        max-width: 80%;
+    }
+
+    .about-img::before {
+        top: 55px;
+    }
+
+    .about-img::before {
+        right: -105px;
+        top: 43px;
+        height: 91px;
+    }
+
+    .about-text {
+        margin-left: 60px;
+    }
+  
+}
+
+@media only screen and (max-width: 1440px) {
+    .container {
+        width: 100%;
+        max-width: 1240px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    a.product {
+        margin-bottom: 30px;
+    }
+
+    a.buy {
+
+        margin: 15px 0;
+    }
+
+    .counter-diff {
+
+        margin: 10px 0;
+    }
+
+    .slider-detail {
+        max-width: 36%;
+        margin-top: 0;
+        margin-left: 70px;
+    }
+  
+
+    .slider-nav-content {
+        max-width: 90px;
+        min-height: 100px;
+    }
+    section.product-detail {
+        padding: 60px 0 50px;
+    }
+    section.new-duplicat-key-machine::before {
+        top: 65px;
+    }
+
+    section.new-duplicat-key-machine::after {
+
+        max-width: 40%;
+        min-height: 79%;
+    }
+
+    .never-easy {
+        width: 100%;
+        max-width: 50%;
+    }
+
+    section.banner {
+        min-height: 60vh;
+    }
+
+    .about-product {
+        width: 100%;
+        max-width: 35%;
+    }
+    .bundle-content p
+    {
+        max-width: 61%;
+    }
+
+    .fav-bundle {
+        max-width: 95%;
+    }
+
+    .about-text {
+        width: 100%;
+        max-width: 45%;
+        margin-left: 60px;
+    }
+
+    .about-img::before {
+        right: -110px;
+        top: 36px;
+        height: 91px;
+    }
+
+    .about-img::after {
+        min-height: 375px;
+    }
+
+    .just-color {
+        width: 180px;
+        min-height: 180px;
+    }
+
+    .fancy-vide {
+        max-width: 142px;
+        min-height: 142px;
+
+    }
+    .pick-your-bundle p
+    {
+        max-width: 100%;
+    }
+    .faq-content {
+        width: 100%;
+        max-width: 75%;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    .container {
+        width: 100%;
+        max-width: 1190px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    /* font-size 56=40 */
+    .never-easy h1 {
+        font-size: 40px;
+    }
+
+    /* font-size 20=16 */
+    .header-nav ul li a {
+        font-size: 16px;
+    }
+
+    /* font-size 24=20 */
+    .never-easy p {
+        font-size: 20px;
+    }
+
+    .bundle-x h6 {
+        font-size: 18px;
+    }
+
+    /* font-size 22=18px */
+    .never-easy a,
+    .discount a {
+        font-size: 18px;
+    }
+
+    /* font-size 32=26*/
+    .slider-detail h1,
+    .points ul li h4 {
+        font-size: 26px;
+    }
+
+    /* font-size 26=24 */
+    .about-product h1 {
+        font-size: 21px;
+    }
+
+    /* font-size 30=24px */
+    .counter-diff .counter-price h1 {
+        font-size: 24px;
+    }
+   
+    /* font-size 30=24 */
+    .discount h1 {
+        font-size: 24px;
+    }
+
+    /* font-size 46=36 */
+    .faq-content.faq-part2 h1,
+    .bundle-content h1,
+    .bundle-x span,
+    .about-text h1 {
+        font-size: 36px;
+    }
+
+    /* font-size 43px=33 */
+    section.new-duplicat-key-machine::before {
+
+        font-size: 33px;
+    }
+
+    .minus,
+    .number input,
+    .plus {
+        width: 50px;
+        height: 50px;
+    }
+
+    .about-product p {
+        margin: 15px 0 20px;
+    }
+
+    .about-product p {
+        font-size: 16px;
+    }
+
+    .never-easy a,
+    .discount a {
+        width: 100%;
+        max-width: 140px;
+        min-height: 50px;
+    }
+
+    section.get-discount {
+        padding: 50px 0;
+    }
+
+    section.new-duplicat-key-machine {
+        position: relative;
+        padding: 70px 0;
+    }
+
+    section.new-duplicat-key-machine::after {
+        min-height: 85%;
+    }
+
+    .fav-bundle {
+        max-width: 100%;
+    }
+
+    section.about-us {
+        padding: 100px 0;
+    }
+
+    .about-img::after {
+        min-height: 360px;
+    }
+
+    .about-img::before {
+        right: -110px;
+        top: 15px;
+        height: 91px;
+    }
+
+    section.faq {
+        padding: 50px 0;
+    }
+   
+}
+
+@media only screen and (max-width: 1280px) {
+    .container {
+        width: 100%;
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    section.get-discount::before {
+        width: 100%;
+        max-width: 170px;
+    }
+
+    .site-footer::after {
+        max-width: 21%;
+    }
+
+    .slider-detail {
+        max-width: 36%;
+        margin-left: 70px;
+        margin-top: 0;
+    }
+    section.product-detail {
+        padding: 50px 0;
+    }
+    section.advantages
+    {
+        margin-top: 50px;
+    }
+    .about-product {
+        margin: 0 0 0 15px;
+        max-width: 40%;
+    }
+    .points {
+        width: 100%;
+        max-width: 50%;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .container {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    section.banner {
+        min-height: 30vh;
+    }
+
+    .never-easy {
+        width: 100%;
+        max-width: 60%;
+    }
+
+    .site-footer::after {
+        max-width: 25%;
+    }
+
+    .discount {
+        width: 100%;
+        max-width: 60%;
+        margin: 0 auto;
+    }
+
+    .slider-detail {
+        max-width: 45%;
+        margin-left: 60px;
+    }
+
+    .duplicat-content {
+        align-items: center;
+    }
+
+    section.fancy-box {
+        height: 40vh;
+    }
+
+    .about-text p {
+        margin-bottom: 10px;
+    }
+
+    .about-text {
+        margin-left: 20px;
+    }
+
+    .about-img {
+        width: 100%;
+        max-width: 55%;
+        margin-top: 17px;
+    }
+
+    .about-img::before {
+        right: -67px;
+        top: 0px;
+        height: 82px;
+    }
+
+    .bundle-content p {
+        max-width: 80%;
+    }
+
+    .pick-your-bundle p {
+        max-width: 100%;
+    }
+
+    .faq-content {
+        max-width: 90%;
+    }
+
+    .fav-bundle.slick-initialized.slick-slider .slick-dots li.slick-active button:before {
+        color: #F74C01;
+    }
+
+    .fav-bundle.slick-initialized.slick-slider .slick-dots li button:before {
+        width: 35px;
+        height: 35px;
+
+    }
+    .fav-bundle.slick-initialized.slick-slider   ul.slick-dots {
+        bottom: -50px;
+    }
+    .fav-bundle.slick-initialized.slick-slider .slick-dots li button:before {
+        font-size: 15px;
+    }
+    
+    .fav-bundle.slick-initialized.slick-slider .slick-slide.slick-active:last-child
+    {
+     margin: 0;   
+    }
+    .pick-your-bundle
+    {
+        max-width: 100%;
+    }
+    .fav-bundle.slick-initialized.slick-slider.slick-dotted {
+        padding: 50px 0 0;
+    }
+    section.bundle {
+        padding: 50px 0;
+    }
+    .pick-your-bundle:hover
+    {
+        box-shadow: none;
+        transform:inherit;
+
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .container {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    /* font-size 56=30 */
+    .never-easy h1 {
+        font-size: 30px;
+    }
+
+    /* font-size 20=16 */
+    .header-nav ul li a {
+        font-size: 16px;
+    }
+
+    /* font-size 24=18 */
+    .never-easy p {
+        font-size: 18px;
+    }
+
+    /* font-size 22=16px */
+    .never-easy a,
+    .discount a {
+        font-size: 16px;
+    }
+
+    /* font-size 20=16 */
+    .bundle-x h6 {
+        font-size: 16px;
+    }
+
+    /* font-size 32=20*/
+    .slider-detail h1 {
+        font-size: 20px;
+    }
+
+    .about-text {
+        margin-left: 20px;
+    }
+
+    .about-img::before {
+        content: none;
+    }
+
+    section.about-us {
+        padding: 50px 0;
+    }
+
+
+    /* font-size 30=21 */
+    .discount h1 {
+        font-size: 21px;
+    }
+
+    /* font-size 30=20px */
+    .counter-diff .counter-price h1 {
+        font-size: 20px;
+    }
+
+    /* font-size 43px=27 */
+    section.new-duplicat-key-machine::before {
+
+        font-size: 27px;
+    }
+
+    /* font-size 46=32 */
+    .faq-content.faq-part2 h1,
+    .bundle-content h1,
+    .bundle-x span,
+    .about-text h1 {
+        font-size: 32px;
+    }
+
+    /* font-size 26=18 */
+    .about-product h1,
+    .points ul li h4 {
+        font-size: 18px;
+    }
+
+    .holding-key {
+        width: 100%;
+        max-width: 50%;
+    }
+
+    .just-color {
+        width: 150px;
+        min-height: 150px;
+    }
+
+    .fancy-vide {
+        max-width: 130px;
+        min-height: 130px;
+    }
+
+    .about-img {
+        width: 100%;
+        max-width: 55%;
+        margin-top: 17px;
+    }
+
+    section.banner {
+        min-height: 30vh;
+    }
+
+    .never-easy {
+        width: 100%;
+        max-width: 60%;
+    }
+
+    .never-easy a,
+    .discount a {
+
+        max-width: 140px;
+        min-height: 40px;
+    }
+
+    .never-easy p {
+        margin: 10px 0;
+    }
+
+    section.get-discount {
+        padding: 40px 0;
+    }
+
+    section.new-duplicat-key-machine {
+        padding: 50px 0;
+    }
+
+    .duplicat-content {
+        max-width: 100%;
+    }
+
+    .duplicat-content {
+        display: block;
+    }
+
+    .key-machine.slick-initialized.slick-slider {
+        max-width: 70%;
+        margin: 0 auto;
+    }
+
+    .slider-detail {
+        max-width: 70%;
+        margin: 0 auto;
+    }
+
+    .site-footer {
+        padding: 20px 0;
+    }
+
+    .footer-content a img {
+        width: 100%;
+        max-width: 70%;
+        margin: 0 auto;
+    }
+
+    section.new-duplicat-key-machine::after {
+        max-width: 58%;
+        min-height: 51%;
+    }
+
+    section.get-discount::before {
+        width: 100%;
+        max-width: 109px;
+    }
+
+    .faq-content {
+        width: 100%;
+        max-width: 100%;
+    }
+    .our-product {
+        display: block;
+    }
+    .about-product {
+        width: 100%;
+        max-width: 100%;
+        margin: 30px 0 0 0;
+    }
+    .product-img-slider.slick-initialized.slick-slider {
+        max-width: 100%;
+    }
+    .product-img {
+        margin: 0 auto;
+    }
+    section.bundle
+    {
+        padding: 50px 0;
+    }
+    .product-thumbail-img.slick-initialized.slick-slider.slick-vertical
+    {
+        left: -80px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .discount {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .never-easy {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .man-standing {
+        display: none;
+    }
+
+    section.banner {
+        min-height: 40vh;
+        align-items: center;
+    }
+
+    .duplicat-content::before {
+        display: none;
+    }
+
+    section.new-duplicat-key-machine::before {
+        left: 20px;
+        top: 20px;
+    }
+
+    .key-machine.slick-initialized.slick-slider,
+    .slider-detail {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    section.new-duplicat-key-machine::after {
+        min-height: 41%;
+    }
+
+    .slider-detail {
+        margin-top: 50px;
+    }
+
+    /* HEADER RES */
+
+    .header-nav ul li a {
+        margin: 0 5px;
+    }
+
+    .cart {
+        max-width: 50px;
+        min-height: 50px;
+    }
+
+    .header-logo {
+        width: 100%;
+        max-width: 20%;
+    }
+
+    .header-content {
+        padding: 10px 0;
+
+    }
+
+    .header-nav ul li a {
+        font-size: 14px;
+    }
+
+    .header-nav ul li a.active::after {
+        bottom: -10px;
+    }
+
+    /* HEADER RES END CSS HERE */
+    /* footer res */
+    .site-footer {
+        padding: 10px 0;
+    }
+
+    .footer-content {
+        display: block;
+    }
+
+    .footer-content a img {
+        max-width: 30%;
+    }
+
+    .site-footer::after {
+        content: none;
+    }
+
+    a.company-mail img {
+        width: 100%;
+        max-width: 5%;
+        margin: 0;
+    }
+
+    a.company-mail {
+        display: none;
+    }
+
+    a.company-mail.mobile {
+        display: flex;
+    }
+
+    .footer-content p {
+        text-align: center;
+    }
+
+    a.company-mail.mobile {
+        justify-content: center;
+        margin: 10px 0;
+    }
+  
+    .key-points {
+        display: block;
+    }
+    .holding-key {
+        width: 100%;
+        max-width: 100%;
+    }
+    section.advantages::after {
+
+        width: 50%;
+        height: 60%;
+    }
+    .about-content
+    {
+        display: block;
+    }
+    .about-text {
+        max-width: 100%;
+        margin: 0;
+    }
+    .about-img {
+        max-width: 100%;
+    }
+    .fancy-vide i {
+        color: #F74C01;
+        font-size: 31px;
+    }
+    .fancy-vide {
+        max-width: 80px;
+        min-height: 80px;
+    }
+    section.fancy-box {
+        height: 25vh;
+    }
+    .just-color {
+        width: 100px;
+        min-height: 100px;
+    }
+    .points
+    {
+        max-width: 100%;
+        margin-top: 30px;
+    }
+    .bundle-content p {
+        max-width: 100%;
+    }
+    .product-thumbail-img.slick-initialized.slick-slider.slick-vertical {
+        left: -36px;
+    }
+    /* footer res css end here */
+}
